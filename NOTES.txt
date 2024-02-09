@@ -1,0 +1,5 @@
+https://adminlte.io/
+https://github.com/ColorlibHQ/AdminLTE/releases
+
+DOWNLOAD ZIP:
+https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0.zip
